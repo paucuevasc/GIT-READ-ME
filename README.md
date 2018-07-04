@@ -1,5 +1,12 @@
-# TIC
+# ITacademy Pau Cuevas
 
 Projecte 1.GIT
+https://github.com/paucuevasc/GIT-READ-ME
 
-Pau Cuevas
+
+Exercici Modelatge BBDD
+https://github.com/paucuevasc/BBDD
+
+
+
+
