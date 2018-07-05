@@ -8,5 +8,6 @@ Exercici Modelatge BBDD
 https://github.com/paucuevasc/BBDD
 
 
-
+Exercici USflights
+https://github.com/paucuevasc/USFlights
 
