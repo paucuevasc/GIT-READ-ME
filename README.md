@@ -11,3 +11,6 @@ https://github.com/paucuevasc/BBDD
 Exercici USflights
 https://github.com/paucuevasc/USFlights
 
+Exercici e-commerce
+https://github.com/paucuevasc/e-commerce
+
